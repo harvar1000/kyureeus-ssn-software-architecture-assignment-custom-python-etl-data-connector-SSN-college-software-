@@ -1,0 +1,4 @@
+python-dotenv
+requests
+pymongo
+dnspython    # if using MongoDB Atlas (optional)
